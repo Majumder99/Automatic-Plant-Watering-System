@@ -1,5 +1,4 @@
 <h1>CSE-3104 Course Projet<h1>
-
 <h2>Project Name: Automatic Plan Watering System</h2>
 <h4>My team partners are:
 <ul>
