@@ -1,5 +1,5 @@
 <h1>CSE-3104 Course Project<br>
-Project Name: Automatic Plan Watering System</h1>
+Project Name: Automatic Plant Watering System</h1>
 <h4>My team partners are:
 <ul>
 <li>[Rifat Arefin Mahim](https://github.com/RifatArefin32)</li>
